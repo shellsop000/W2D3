@@ -1,0 +1,57 @@
+.home {
+    background: #447f5d url(C:/Users/SophTheLoaf/Downloads/pictures-for-project/project-background.jpg);
+    text-align: center;
+    font-family: Caveat, "Lucida Handwriting", Garamond;
+}
+html, body, h1, h2, h3, p, ol, ul, li, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-size: 100%;
+    font: inherit;
+    color: #447f5d
+}
+h1 {
+    font-size: 60px; 
+    font-weight: bold;
+    margin: 5px;
+}
+.header {
+    padding: 15px;
+    background: #447f5d top center no-repeat;
+}
+a {
+    color:000000;
+    font-size: 30px;
+    margin: auto 100px auto 100px;
+    text-decoration: none;
+    font-weight: bold;
+}
+h4 {
+    font-size: 27px;
+    margin: 0;
+}
+.about{
+    background-color:#ffffff
+}
+.contact {
+    background: #ffffff;
+    text-align: center;
+    font-family: Caveat, "Lucida Handwriting", Garamond;
+    font-size: 27px;
+    margin: 5px;
+}
+.email {
+    color: #d5552e;
+    font-weight: bold;
+}
+.content-contact{
+    display: inline-block;
+}
+.p-about {
+    margin: 10px;
+    line-height: 50px;
+}
+.p1{
+    margin-bottom: 50px;
+}
